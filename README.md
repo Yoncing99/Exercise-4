@@ -7,5 +7,7 @@ https://github.com/Yoncing99/Exercise-4/blob/master/Q1.java
 2a)
 
 ![pro q2-page0001](https://user-images.githubusercontent.com/55395418/79042315-474db600-7c29-11ea-97d5-91a8096b96e3.jpg)
-### Q3
+
+2b)
+https://github.com/Yoncing99/Exercise-4/blob/master/TestStaff.java
 ![image](https://user-images.githubusercontent.com/55395418/79042851-ae6d6980-7c2d-11ea-9b62-e65c09350b7a.png)
