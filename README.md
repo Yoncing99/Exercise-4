@@ -13,3 +13,5 @@ https://github.com/Yoncing99/Exercise-4/blob/master/Q1.java
 https://github.com/Yoncing99/Exercise-4/blob/master/TestStaff.java
 ![image](https://user-images.githubusercontent.com/55395418/79042851-ae6d6980-7c2d-11ea-9b62-e65c09350b7a.png)
 ### Q3
+
+![image](https://user-images.githubusercontent.com/55395418/79043381-6f411780-7c31-11ea-8d65-0b1afbd5e2d2.png)
