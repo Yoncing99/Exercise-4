@@ -16,5 +16,5 @@ https://github.com/Yoncing99/Exercise-4/blob/master/TestStaff.java
 https://github.com/Yoncing99/Exercise-4/blob/master/TestMyFCStaff.java
 ![image](https://user-images.githubusercontent.com/55395418/79043381-6f411780-7c31-11ea-8d65-0b1afbd5e2d2.png)
 #### Q4
-
+https://github.com/Yoncing99/Exercise-4/blob/master/TestMyFCStaffQ4.java
 ![image](https://user-images.githubusercontent.com/55395418/79044024-6c482600-7c35-11ea-8f95-583a0fca5e8c.png)
