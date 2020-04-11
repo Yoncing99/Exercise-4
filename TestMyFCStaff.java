@@ -17,7 +17,7 @@ public class TestMyFCStaff {
         totalSales = sc.nextDouble();
 
         MyFCStaff m = new MyFCStaff(name,staffID,totalHoursWork,totalSales);
-        m.displaySalary();
+        System.out.println(m.toString());
     }
 }
 
@@ -50,16 +50,19 @@ class MyFCStaff{
         return totalSalary;
     }
 
-    public void displaySalary(){
+    public String toString(){
+        String a,b,c,d,e;
         String f1="%-10s%-2s%s\n";
         String f2="%-10s%-2s%.2f\n";
         String f3="%-10s%-2s%.0f\n";
         
         System.out.println();
-        System.out.printf(f1,"Staff Name",":",name);
-        System.out.printf(f1,"Staff ID",":",staffID);
-        System.out.printf(f3,"Hours Work",":",totalHoursWork);
-        System.out.printf(f2,"Total Sale",": RM ",totalSales);
-        System.out.printf(f2,"Total Salary",": RM ",calculateSalary());
+        a=String.format(f1,"Staff Name",":",name);
+        b=String.format(f1,"Staff ID",":",staffID);
+        c=String.format(f3,"Hours Work",":",totalHoursWork);
+        d=String.format(f2,"Total Sale",": RM ",totalSales);
+        e=String.format(f2,"Total Salary",": RM ",calculateSalary());
+  
+        return a+b+c+d+e;
     }
 }
